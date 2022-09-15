@@ -12,4 +12,7 @@ The purpose of the MechaCar analysis was to determine if there was a relationshi
 
 ![image](https://user-images.githubusercontent.com/106352711/190519967-d92fb196-5317-49a9-a799-1fbda8ad38f9.png)
 ### Slope
-mpg = 
+The slope of the linear regression analysis was 0.71 which indicates a strong correlation between the variables and fuel-efficiency. 
+
+### Conclusion
+This linear model can be used to predict mpg for MechaCar prototypes based on weight, spoiler angle, and AWD.
