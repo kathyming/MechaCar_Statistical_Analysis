@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
-
+### Results
 The purpose of the MechaCar analysis was to determine if there was a relationship between fuel-efficiency (mpg) and any of the other factors related to the cars (length, weight, spoiler angle, ground clearance, and all wheel drive).  After performing linear regression on the data supplied it can be concluded as follows:
 
 1) Vehicle Length: With a p-value of 2.60e-12, the null hypothesis must fail to be rejected (failed to prove vehicle length has a correlation to fuel-efficiency).
@@ -11,3 +11,5 @@ The purpose of the MechaCar analysis was to determine if there was a relationshi
 
 
 ![image](https://user-images.githubusercontent.com/106352711/190519967-d92fb196-5317-49a9-a799-1fbda8ad38f9.png)
+### Slope
+mpg = 
