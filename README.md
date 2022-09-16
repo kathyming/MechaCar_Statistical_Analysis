@@ -16,3 +16,9 @@ The slope of the linear regression analysis was 0.71 which indicates a strong co
 
 ### Conclusion
 This linear model can be used to predict mpg for MechaCar prototypes based on weight, spoiler angle, and AWD.
+
+
+## T-Tests on Suspension Coils
+After analyzing if the PSI for the different manufacturing lots were statictically different, here are the results:
+* PSI across all manufacturing lots is not statistically differentn from the population mean (p = 1)
+* PSI 
