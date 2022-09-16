@@ -19,6 +19,6 @@ This linear model can be used to predict mpg for MechaCar prototypes based on we
 
 
 ## T-Tests on Suspension Coils
-After analyzing if the PSI for the different manufacturing lots were statictically different, here are the results:
-* PSI across all manufacturing lots is not statistically differentn from the population mean (p = 1)
-* PSI 
+After analyzing the PSI for the different manufacturing lots I have concluded that there is no statistical difference across any of the manufacturing lots.  The p-value for each of the individual lots (1-3), compared to the overall mean was 1.  
+
+## Study Design: MechaCar vs Competition
