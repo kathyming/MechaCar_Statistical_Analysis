@@ -16,6 +16,14 @@ The slope of the linear regression analysis was 0.71 which indicates a strong co
 ### Conclusion
 This linear model can be used to predict mpg for MechaCar prototypes based on vehicle length and ground clearance.
 
+## Summary Statistics on Suspension Coils
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.  After analyzing the suspension coil data, it was determined that the current manufacturing data meets this design specification for all manufacturing lots in total and for lots 1 and 2 individually.  However, the variance for lot 3 individually, 170.28, does not meet this criteria.
+
+#### Overall Summary
+![total_summary](https://user-images.githubusercontent.com/106352711/191115337-01fad5a7-220f-4f85-97c9-668ebd404908.png)
+
+#### Lot Summary
+![lot_summary](https://user-images.githubusercontent.com/106352711/191115272-882f7e19-4f65-4fff-b80d-89dd1e742c7e.png)
 
 ## T-Tests on Suspension Coils
 After analyzing the PSI for the different manufacturing lots I have concluded that there is no statistical difference across any of the manufacturing lots.  The p-value for each of the individual lots (1-3), compared to the overall mean was 1.  
