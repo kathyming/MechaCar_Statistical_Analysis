@@ -29,3 +29,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 After analyzing the PSI for the different manufacturing lots I have concluded that there is no statistical difference across any of the manufacturing lots.  The p-value for each of the individual lots (1-3), compared to the overall mean was 1.  
 
 ## Study Design: MechaCar vs Competition
+To further analyze the performace of MechaCar versus the competition, I would like to look at maintenance cost (upkeep).  Specifically, I would want to see if there was a correlation between miles driven and maintenance costs between MechaCar and the competition.
+
+The Null Hypothesis would be there is not a difference between the mean maintenance costs of MechaCar and the mean maintenance costs of other cars.
+The Alternate Hypotheis would be there is difference between the mean maintenance costs of MechaCar and the mean maintenance costs of other cars.
+
+To run the test I would need a dataset that contained maintenance costs for all car types (MechaCar and non-MechaCars) for the first three years.  I would also like to have the mileage driven for each car in order to possibly help eliminate outliers (cars that were heavily driven might have very high maintenance costs and cars never driven might have very low maintance costs).
+
